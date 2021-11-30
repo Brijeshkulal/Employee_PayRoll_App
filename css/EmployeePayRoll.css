@@ -137,7 +137,6 @@ select {
     margin-bottom: 10px;
     justify-content: space-between;
     margin-top: 20px;
-    flex-direction: row;
 }
 
 .button {
@@ -157,7 +156,7 @@ select {
 
 .submitButton {
     border: none;
-    margin-right: 30px;
+    margin-right: 10px;
 }
 
 .cancelButton {
